@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 
 import 'bloc/bloc_imports.dart';
 
-void main() async {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
 
   // * StatusBar & NavigationBar Color
